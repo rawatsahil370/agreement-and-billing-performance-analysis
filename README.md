@@ -1,17 +1,17 @@
+
 # 🧾 Agreement & Billing Performance Analysis
 
 _Analyzing agreement, billing, and revenue performance to deliver actionable financial insights using Python, SQL, and Power BI._
 
 ---
-
 ## 📌 Table of Contents
 - <a href="#overview">Overview</a>
 - <a href="#business-problem">Business Problem</a>
 - <a href="#dataset">Dataset</a>
 - <a href="#tools--technologies">Tools & Technologies</a>
 - <a href="#project-structure">Project Structure</a>
-- <a href="#Python-Analysis(Jupyter Notebook)">Python Analysis (Jupyter Notebook)</a>
-- <a href="#SQL-Analysis(PostgreSQL)">SQL Analysis (PostgreSQL)</a>
+- <a href="#Python">Python Analysis (Jupyter Notebook) </a>
+- <a href="#sql">SQL Analysis (PostgreSQL)</a>
 - <a href="#dashboard">Dashboard</a>
 - <a href="#author--contact">Author & Contact</a>
 
@@ -31,7 +31,7 @@ Effective agreement and billing management are critical for maintaining financia
 - Highlight agreements with inefficient billing cycles or low realization rates
 
 ---
-<h2><a class="anchor" id="dataset Description "></a>Dataset</h2>
+<h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
 The dataset includes information related to:
 
@@ -68,7 +68,7 @@ Agreement & Billing Performance Analysis/
 ```
 
 ---
-<h2><a class="anchor" id="Python-Analysis(Jupyter Notebook)"></a>Python Analysis(Jupyter Notebook)</h2>
+<h2><a class="anchor" id="Python"></a>Python Analysis (Jupyter Notebook)</h2>
 
 Key tasks performed:
 
@@ -79,7 +79,7 @@ Key tasks performed:
 - Visualizations using bar charts, line charts, and distributions
 ---
 
-<h2><a class="anchor" id="SQL-Analysis(PostgreSQL)"></a>SQL Analysis(PostgreSQL)</h2>
+<h2><a class="anchor" id="sql"></a>SQL Analysis (PostgreSQL)</h2>
 
 The SQL file contains business-oriented analytical queries, such as:
 
@@ -100,13 +100,14 @@ The SQL file contains business-oriented analytical queries, such as:
   - Billing vs Received comparison
   - nteractive filters for deeper analysis
 
-![Vendor Performance Dashboard](images/Dashboard.png)
+![Dashboard Preview](/dashboard.jfif)
 
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 If you found this project useful or want to discuss data analytics opportunities:
-**Sahil**   **Aspiring Data Analyst**  
-🔗 [LinkedIn]: (www.linkedin.com/in/sahil-27158a2aaVanity URL name)  
-📧 Email:  sahilrawat3868@gmail.com  
+**Sahil**  
+ **Aspiring Data Analyst**  
+🔗 [LinkedIn](www.linkedin.com/in/sahil-27158a2aaVanity URL name)  
+📧 Email: sahilrawat3868@gmail.com  
 
