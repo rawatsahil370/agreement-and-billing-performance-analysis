@@ -106,8 +106,7 @@ The SQL file contains business-oriented analytical queries, such as:
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 If you found this project useful or want to discuss data analytics opportunities:
-**Sahil**  
- **Aspiring Data Analyst**  
+**Sahil**   **Aspiring Data Analyst**  
 🔗 [LinkedIn]: (www.linkedin.com/in/sahil-27158a2aaVanity URL name)  
 📧 Email:  sahilrawat3868@gmail.com  
 
