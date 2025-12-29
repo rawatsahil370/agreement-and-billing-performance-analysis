@@ -100,7 +100,7 @@ The SQL file contains business-oriented analytical queries, such as:
   - Billing vs Received comparison
   - nteractive filters for deeper analysis
 
-![Dashboard Preview](/dashboard.jfif)
+![Dashboard Preview](/Dashboard.png.png)
 
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
